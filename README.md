@@ -1,3 +1,3 @@
-# Demo (main header)
+# Demo
 
-Some description.
+Some description!
